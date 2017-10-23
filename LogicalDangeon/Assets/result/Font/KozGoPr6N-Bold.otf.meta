@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0cbcaf6433b3c414c870ae23db1c61cf
+timeCreated: 1497692373
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kozuka Gothic Pr6N
+  fontNames:
+  - Kozuka Gothic Pr6N
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
